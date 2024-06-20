@@ -52,3 +52,5 @@ Aumento da classe minoritária com a técnica SMOTE.
 
 ## 📋 Resumo
 Avaliação do desempenho do modelo DNN com diferentes técnicas de amostragem, destacando que o DNN com SMOTE apresentou o melhor desempenho.
+
+[Link para o Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download)
