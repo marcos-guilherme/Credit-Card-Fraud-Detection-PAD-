@@ -1,7 +1,7 @@
 
 # Detecção de Fraude em Cartão de Crédito
 
-**Modelos de Machine Learning e Redes Neurais Profundas**
+**Deep Learning**
 
 📚 **Disciplina:** Pensamento Analítico de Dados (PAD) - UFG
 
