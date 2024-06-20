@@ -1,17 +1,18 @@
-
 # Detecção de Fraude em Cartão de Crédito
 
-**Deep Learning**
+**Modelos de Redes Neurais Profundas**
 
 📚 **Disciplina:** Pensamento Analítico de Dados (PAD) - UFG
 
 👥 **Integrantes:**
-- Marcos Guilherme 
-- Gabriel Oliveira 
-- Kaiki Camilo 
-- Lucas Arruda 
-- Mateus Lacerda 
+- Marcos Guilherme
+- Gabriel Oliveira
+- Kaiki Camilo
+- Lucas Arruda
+- Mateus Lacerda
 - Gonzalo Aguirre
+
+🇧🇷 **Universidade Federal de Goiás (UFG)**
 
 ## 📑 Sumário
 
@@ -50,4 +51,4 @@ Balanceamento dos dados pela redução da classe majoritária.
 Aumento da classe minoritária com a técnica SMOTE.
 
 ## 📋 Resumo
-Comparação dos modelos criados, destacando que o DNN com SMOTE apresentou o melhor desempenho.
+Avaliação do desempenho do modelo DNN com diferentes técnicas de amostragem, destacando que o DNN com SMOTE apresentou o melhor desempenho.
