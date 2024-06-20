@@ -1,6 +1,6 @@
 # Detecção de Fraude em Cartão de Crédito
 
-**Modelos de Redes Neurais Profundas**
+**Modelo de Redes Neurais Profundas**
 
 📚 **Disciplina:** Pensamento Analítico de Dados (PAD) - UFG
 
