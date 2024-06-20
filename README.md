@@ -6,11 +6,11 @@
 📚 **Disciplina:** Pensamento Analítico de Dados (PAD) - UFG
 
 👥 **Integrantes:**
-- Marcos Guilherme 🇧🇷
-- Gabriel Oliveira 🇧🇷
-- Kaiki Camilo 🇧🇷
-- Lucas Arruda 🇧🇷
-- Mateus Lacerda 🇧🇷
+- Marcos Guilherme 
+- Gabriel Oliveira 
+- Kaiki Camilo 
+- Lucas Arruda 
+- Mateus Lacerda 
 - Gonzalo Aguirre
 
 ## 📑 Sumário
