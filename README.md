@@ -16,21 +16,21 @@
 
 ## 📑 Sumário
 # A
- 🏆 [Desafio de Negócio](#desafio-de-negócio)
- 📊 [Revisão dos Dados](#revisão-dos-dados)
+ - 🏆 [Desafio de Negócio](#desafio-de-negócio)
+ - 📊 [Revisão dos Dados](#revisão-dos-dados)
 
  # GE
- 🔧 [Processamento dos Dados](#processamento-dos-dados)
+ - 🔧 [Processamento dos Dados](#processamento-dos-dados)
 
  # M
- 🧠 [Construção do Modelo DNN](#construção-do-modelo-dnn)
- 📈 [Avaliação do Modelo DNN](#avaliação-do-modelo-dnn)
- 🎛️ [Técnicas de Amostragem](#técnicas-de-amostragem)
+ - 🧠 [Construção do Modelo DNN](#construção-do-modelo-dnn)
+ - 📈 [Avaliação do Modelo DNN](#avaliação-do-modelo-dnn)
+ - 🎛️ [Técnicas de Amostragem](#técnicas-de-amostragem)
     - 🟢 [Subamostragem](#subamostragem)
     - 🔵 [SMOTE](#smote)
     
  # C  
- 📋 [Resumo](#resumo)
+ - 📋 [Resumo](#resumo)
 
 ---
 
