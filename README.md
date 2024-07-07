@@ -15,21 +15,21 @@
 🇧🇷 **Universidade Federal de Goiás (UFG)**
 
 ## 📑 Sumário
-#A
+# A
  🏆 [Desafio de Negócio](#desafio-de-negócio)
  📊 [Revisão dos Dados](#revisão-dos-dados)
 
- #GE
+ # GE
  🔧 [Processamento dos Dados](#processamento-dos-dados)
 
- #M
+ # M
  🧠 [Construção do Modelo DNN](#construção-do-modelo-dnn)
  📈 [Avaliação do Modelo DNN](#avaliação-do-modelo-dnn)
  🎛️ [Técnicas de Amostragem](#técnicas-de-amostragem)
     - 🟢 [Subamostragem](#subamostragem)
     - 🔵 [SMOTE](#smote)
     
- #C  
+ # C  
  📋 [Resumo](#resumo)
 
 ---
