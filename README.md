@@ -41,7 +41,8 @@ Padronização dos valores e divisão dos dados em conjuntos de treino e teste.
 Desenvolvimento de uma rede neural profunda de 5 camadas usando Keras.
 
 ## 📈 Avaliação do Modelo DNN
-Treinamento e avaliação do modelo, obtendo uma precisão de 99,94%.
+Treinamento e avaliação do modelo. (Ponto em que vamos mudar)
+Usaremos um Algoritmo Genético para a busca de hiperparâmetros.
 
 ## 🎛️ Técnicas de Amostragem
 ### 🟢 Subamostragem
@@ -51,6 +52,6 @@ Balanceamento dos dados pela redução da classe majoritária.
 Aumento da classe minoritária com a técnica SMOTE.
 
 ## 📋 Resumo
-Avaliação do desempenho do modelo DNN com diferentes técnicas de amostragem, destacando que o DNN com SMOTE apresentou o melhor desempenho.
+Avaliação do desempenho do modelo DNN com diferentes técnicas de amostragem.
 
 [Link para o Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download)
