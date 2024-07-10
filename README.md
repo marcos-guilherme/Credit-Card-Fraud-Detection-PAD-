@@ -15,16 +15,27 @@
 🇧🇷 **Universidade Federal de Goiás (UFG)**
 
 ## 📑 Sumário
+# A
+ - 🏆 [Desafio de Negócio](#desafio-de-negócio)
+Detectar fraudes entre as compras de uma empresa de cartões de crédito, evitar a cobrança dos clientes por compras que eles não fizeram.
+Construir um odelo de classificação que indica se uma transação é fraudelanta ou não. (**Modelo Supervisionado**) 
 
-1. 🏆 [Desafio de Negócio](#desafio-de-negócio)
-2. 📊 [Revisão dos Dados](#revisão-dos-dados)
-3. 🔧 [Processamento dos Dados](#processamento-dos-dados)
-4. 🧠 [Construção do Modelo DNN](#construção-do-modelo-dnn)
-5. 📈 [Avaliação do Modelo DNN](#avaliação-do-modelo-dnn)
-6. 🎛️ [Técnicas de Amostragem](#técnicas-de-amostragem)
+ - 📊 [Revisão dos Dados](#revisão-dos-dados)
+Dados extraídos de https://www.kaggle.com/mlg-ulb/creditcardfraud, são transações de dois dias de emrpesas de cartões da Europa.
+Extremamente desbalanceado, contendo 492 fraudes entre 284.807 transações.
+
+ # GE
+ - 🔧 [Processamento dos Dados](#processamento-dos-dados)
+
+ # M
+ - 🧠 [Construção do Modelo DNN](#construção-do-modelo-dnn)
+ - 📈 [Avaliação do Modelo DNN](#avaliação-do-modelo-dnn)
+ - 🎛️ [Técnicas de Amostragem](#técnicas-de-amostragem)
     - 🟢 [Subamostragem](#subamostragem)
     - 🔵 [SMOTE](#smote)
-7. 📋 [Resumo](#resumo)
+    
+ # C  
+ - 📋 [Resumo](#resumo)
 
 ---
 
@@ -41,7 +52,8 @@ Padronização dos valores e divisão dos dados em conjuntos de treino e teste.
 Desenvolvimento de uma rede neural profunda de 5 camadas usando Keras.
 
 ## 📈 Avaliação do Modelo DNN
-Treinamento e avaliação do modelo, obtendo uma precisão de 99,94%.
+Treinamento e avaliação do modelo. (Ponto em que vamos mudar)
+Usaremos um Algoritmo Genético para a busca de hiperparâmetros.
 
 ## 🎛️ Técnicas de Amostragem
 ### 🟢 Subamostragem
@@ -51,6 +63,6 @@ Balanceamento dos dados pela redução da classe majoritária.
 Aumento da classe minoritária com a técnica SMOTE.
 
 ## 📋 Resumo
-Avaliação do desempenho do modelo DNN com diferentes técnicas de amostragem, destacando que o DNN com SMOTE apresentou o melhor desempenho.
+Avaliação do desempenho do modelo DNN com diferentes técnicas de amostragem.
 
 [Link para o Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download)
