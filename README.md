@@ -21,7 +21,7 @@ Detectar fraudes entre as compras de uma empresa de cartões de crédito, evitar
 Construir um modelo de classificação que indica se uma transação é fraudelanta ou não. (**Modelo Supervisionado**) 
 
  - 📊 [Revisão dos Dados](#revisão-dos-dados)
-Dados extraídos de https://www.kaggle.com/mlg-ulb/creditcardfraud, são transações de dois dias de empresas de cartões da Europa.
+São transações de dois dias de empresas de cartões da Europa.
 Extremamente desbalanceado, contendo 492 fraudes entre 284.807 transações.
 
  # GE
