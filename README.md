@@ -18,7 +18,7 @@
 # A
  - 🏆 [Desafio de Negócio](#desafio-de-negócio)
 Detectar fraudes entre as compras de uma empresa de cartões de crédito, evitar a cobrança dos clientes por compras que eles não fizeram.
-Construir um odelo de classificação que indica se uma transação é fraudelanta ou não. (**Modelo Supervisionado**) 
+Construir um modelo de classificação que indica se uma transação é fraudelanta ou não. (**Modelo Supervisionado**) 
 
  - 📊 [Revisão dos Dados](#revisão-dos-dados)
 Dados extraídos de https://www.kaggle.com/mlg-ulb/creditcardfraud, são transações de dois dias de emrpesas de cartões da Europa.
