@@ -63,6 +63,6 @@ Balanceamento dos dados pela redução da classe majoritária.
 Aumento da classe minoritária com a técnica SMOTE.
 
 ## 📋 Resumo
-Avaliação do desempenho do modelo DNN com diferentes técnicas de amostragem.
+Avaliação do desempenho do modelo DNN (Hyperparameter Tuning - Genetic Algorithm)
 
 [Link para o Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download)
